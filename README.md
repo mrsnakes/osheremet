@@ -1,1 +1,1 @@
-# osheremet
+Blackjack in Python, using OOP
